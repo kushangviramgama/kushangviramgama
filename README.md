@@ -42,7 +42,7 @@
 ---
 
 ## 📫 How to Reach Me
-- 📧 Email: **your-email@example.com**
+- 📧 Email: **kushangviramgama4@gmail.com**
 - 💼 LinkedIn: **linkedin.com/in/kushang-viramgama-b14352329**
 - 🌐 GitHub: **github.com/kushangviramgama**
 
