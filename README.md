@@ -42,28 +42,7 @@
 ![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-
-## 🛠️ Tech Stack
-**Frontend**
-- React.js
-- JavaScript (ES6+)
-- HTML5, CSS3
-- Tailwind CSS, MUI
-
-**Backend**
-- Node.js
-- Express.js
-- REST APIs
-
-**Database**
-- MongoDB 
-
-**Tools & Others**
-- Git & GitHub
-- Postman
-- Redux Toolkit
-
----
+-----
 
 ##  Looking to Collaborate On
 - MERN stack projects  
