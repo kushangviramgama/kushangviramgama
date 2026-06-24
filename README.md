@@ -5,11 +5,16 @@
 ---
 
 ##👀 About Me
-💻 Full-Stack Developer with 1 year of hands-on experience in the MERN Stack
-🚀 Built and shipped real-world web applications using React, Node.js, Express, and MongoDB
-🧠 Focused on writing clean, scalable, and maintainable code
-📈 Constantly leveling up — exploring system design, performance optimization, and best practices
-🤝 Open to collaboration on real-world web projects
+💻 Full-Stack Developer with 1 year of hands-on experience in the MERN Stack.
+---
+🚀 Built and shipped real-world web applications using React, Node.js, Express, and MongoDB.
+---
+🧠 Focused on writing clean, scalable, and maintainable code.
+---
+📈 Constantly leveling up — exploring system design, performance optimization, and best practices.
+---
+🤝 Open to collaboration on real-world web projects.
+
 
 ---
 
