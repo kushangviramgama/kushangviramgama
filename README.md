@@ -4,7 +4,6 @@
 
 ---
 
-##👀 About Me
 ## 👀 About Me
 - 💻 **Full-Stack Developer** with **1 year of hands-on experience** in the **MERN Stack**
 - 🚀 Built and shipped real-world web applications using **React, Node.js, Express, and MongoDB**
