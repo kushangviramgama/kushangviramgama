@@ -35,7 +35,7 @@
 
 ---
 
-## 💞️ Looking to Collaborate On
+##  Looking to Collaborate On
 - MERN stack projects  
 - Frontend or Full-Stack web applications  
 
