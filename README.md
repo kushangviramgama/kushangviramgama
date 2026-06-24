@@ -25,12 +25,11 @@
 - REST APIs
 
 **Database**
-- MongoDB (Mongoose)
+- MongoDB 
 
 **Tools & Others**
 - Git & GitHub
 - Postman
-- React Hook Form
 - Redux Toolkit
 
 ---
